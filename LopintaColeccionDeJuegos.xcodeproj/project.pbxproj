@@ -14,6 +14,7 @@
 		5E3D4BBA2BE959BE00B82F84 /* LopintaColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5E3D4BB82BE959BE00B82F84 /* LopintaColeccionDeJuegos.xcdatamodeld */; };
 		5E3D4BBC2BE959BE00B82F84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E3D4BBB2BE959BE00B82F84 /* Assets.xcassets */; };
 		5E3D4BBF2BE959BE00B82F84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E3D4BBD2BE959BE00B82F84 /* LaunchScreen.storyboard */; };
+		5E3D4BC72BE95FEC00B82F84 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3D4BC62BE95FEC00B82F84 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5E3D4BBB2BE959BE00B82F84 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E3D4BBE2BE959BE00B82F84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E3D4BC02BE959BE00B82F84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E3D4BC62BE95FEC00B82F84 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				5E3D4BBD2BE959BE00B82F84 /* LaunchScreen.storyboard */,
 				5E3D4BC02BE959BE00B82F84 /* Info.plist */,
 				5E3D4BB82BE959BE00B82F84 /* LopintaColeccionDeJuegos.xcdatamodeld */,
+				5E3D4BC62BE95FEC00B82F84 /* JuegosViewController.swift */,
 			);
 			path = LopintaColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E3D4BC72BE95FEC00B82F84 /* JuegosViewController.swift in Sources */,
 				5E3D4BB42BE959BE00B82F84 /* ViewController.swift in Sources */,
 				5E3D4BBA2BE959BE00B82F84 /* LopintaColeccionDeJuegos.xcdatamodeld in Sources */,
 				5E3D4BB02BE959BE00B82F84 /* AppDelegate.swift in Sources */,
